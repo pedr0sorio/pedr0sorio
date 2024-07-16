@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @pedr0sorio . I am a Biomedical Engineering master student at Instituto Superior Técnico (Lisbon, Portugal).
-- 👀 I’m interested in medical imaging, AI, biosignal acquisition and processing.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @pedr0sorio . I am a Biomedical Engineer and I work as a Data Scientist at Bayer in Barcelona.
+- 👀 I’m interested in medical imaging, AI, biosignal acquisition and processing
 - 📫 You can reach me by email to pedro.c.osorio@gmail.com
 
 <!---
