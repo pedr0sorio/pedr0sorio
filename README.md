@@ -2,12 +2,14 @@
 
 👋 Hi, I’m Pedro Osório.
 
-I have a BSc and MSc in Biomedical Engineering from Instituto Superior Técnico in Lisbon, Portugal. Currenttly, I work as a Data Scientist at Bayer AG in Barcelona, Spain.
+I have a BSc and MSc in Biomedical Engineering from Instituto Superior Técnico in Lisbon, Portugal. Currently, I work as a Data Scientist at Bayer AG in Barcelona, Spain.
 
 👀 My research interests are:
 - Machine learning & Medical Imaging
 - Deep generative models and sampling
 - Visual-Language Modelling
+
+[Scholar](https://scholar.google.com/citations?user=c5XAAC8AAAAJ&hl=en&oi=ao) | [LinkedIN](https://www.linkedin.com/in/pedro-l-c-os%C3%B3rio-946187195/)
 
 📫 You can reach me by email at pedro.c.osorio@gmail.com
 
