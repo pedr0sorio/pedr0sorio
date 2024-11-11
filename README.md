@@ -9,7 +9,7 @@ I have a BSc and MSc in Biomedical Engineering from Instituto Superior Técnico 
 - Deep generative models and sampling
 - Visual-Language Modelling
 
-[Scholar](https://scholar.google.com/citations?user=c5XAAC8AAAAJ&hl=en&oi=ao) | [LinkedIN](https://www.linkedin.com/in/pedro-l-c-os%C3%B3rio-946187195/)
+[Scholar](https://scholar.google.com/citations?user=c5XAAC8AAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/pedro-l-c-os%C3%B3rio-946187195/)
 
 📫 You can reach me by email at pedro.c.osorio@gmail.com
 
