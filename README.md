@@ -6,6 +6,7 @@ I have a BSc and MSc in Biomedical Engineering from Instituto Superior Técnico 
 
 👀 My research interests are:
 - Machine learning & Medical Imaging
+- Drug Discovery
 - Deep generative models and sampling
 - Visual-Language Modelling
 
